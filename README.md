@@ -38,6 +38,7 @@ First to join the commune:
 | # | 🛠️ Skill | 💬 What it does |
 |---|----------|-----------------|
 | 1 | [kielenhuolto](skills/kielenhuolto.md) | 🇫🇮 Finnish copy-editing → sujuva, luonteva yleiskieli. Slays kapulakieli. Redistributes clarity to the masses. |
+| 2 | [skill-builder](skills/skill-builder.md) | 🛠️ Interviews you and drafts a new, self-contained Markdown skill file. The means of production, seized. |
 
 *(More comrades incoming. 📈🌹 Watch this space — the space in Luxury Gay Space Communism. 🛰️)*
 
