@@ -1,39 +1,62 @@
-# AI Skills for Personal Interest and Social Good
+# 🚀🌈 AI Skills for Personal Interest and Social Good 🌈🚀
 
-A shared, open collection of generic AI skills — reusable prompt/instruction
-templates that anyone can pick up, adapt, and use for learning, everyday
-tasks, and community benefit.
+### *Fully Automated Luxury Gay Space Communism — but for editing your Finnish* 🏳️‍🌈🔧🛰️
 
-Everything here is **plain Markdown**. No code, no scripts, no binaries — just
-clear, readable instructions you can copy into Claude, ChatGPT, or any other
-assistant.
+```
+                     .
+              .      |      .
+       .  ___/|\___  |  ___/|\___  .
+         /  o o  \   |   /  o o  \        to each according
+        |  ~~~~~  | \|/ |  ~~~~~  |         to their need,
+         \_______/ ~~*~~ \_______/       from each according
+              \\    /|\    //              to their vibes
+   🏳️‍🌈       \\  / | \  //        🏳️‍🌈
+    _____________\\/__|__\//_____________
+   |  🛸  FULLY AUTOMATED LUXURY  🛸    |
+   |     GAY  SPACE  KIELENHUOLTO       |
+   |____________________________________|
+          |||||          |||||
+          |||||          |||||
+         🔥🔥🔥🔥        🔥🔥🔥🔥
+```
 
-## What's inside
+Welcome, comrade. 👋 The robots do the toil, the means of proofreading are held
+in common, and nobody is left behind because of a rogue **em-dash**. 🚩✨
 
-Each file in [`skills/`](skills/) is one self-contained skill:
+This repo is a small, joyful commons of **generic AI skills** — reusable
+instruction templates you can copy into any AI assistant. Seize them. They're
+yours. Public domain. No landlords, no license fees, no yhdyssanavirheet. 💅
 
-| Skill | What it does |
-|-------|--------------|
-| [summarize-text](skills/summarize-text.md) | Turn long text into a faithful, structured summary |
-| [research-assistant](skills/research-assistant.md) | Explore a topic with sources and open questions |
-| [meeting-notes](skills/meeting-notes.md) | Convert a transcript into notes, decisions, and action items |
-| [explain-code](skills/explain-code.md) | Explain a snippet of code in plain language |
-| [plain-language](skills/plain-language.md) | Rewrite dense text so more people can understand it |
+## 📦 What's in the collective
 
-## How to use
+Everything here is **plain Markdown**. No code, no scripts, no surveillance, no
+bosses. Just clear instructions. 🕊️
 
-1. Open the skill you want.
-2. Copy the prompt section into your AI assistant.
-3. Paste in your own content where indicated.
+| 🛠️ Skill | 💬 What it does |
+|----------|-----------------|
+| [kielenhuolto](skills/kielenhuolto.md) | 🇫🇮 Finnish copy-editing → sujuva, luonteva yleiskieli. Slays kapulakieli. Redistributes clarity to the masses. |
 
-## Contributing
+*(More skills to be collectivised as the revolution scales. 📈🌹)*
 
-Pull requests welcome. Please keep contributions:
+## 🤖 How to use (the luxury part)
 
-- **Markdown only** — no executable files of any kind.
-- **Generic and reusable** — no personal data, secrets, or credentials.
-- **Benign** — skills that help people learn and do good, not cause harm.
+1. Open a skill. 📂
+2. Copy the prompt into your AI assistant. 📋
+3. Paste your own text where marked. ✍️
+4. Recline. The automated luxury does the rest. 🛋️🍸
 
-## License
+## 🤝 Contributing to the commons
 
-Released under [CC0 1.0](LICENSE.md) — public domain. Use it freely, comrades.
+Pull requests welcome, comrade. Please keep contributions:
+
+- **📝 Markdown only** — no executables. The revolution is transparent.
+- **♻️ Generic and reusable** — no personal data, no secrets, no credentials.
+- **🕊️ Benign** — skills that help people, not harm them.
+
+## ⚖️ License
+
+Released under [CC0 1.0](LICENSE.md) — full public domain. 🏴 Property is theft;
+these skills are everyone's. Use them freely. Solidarity forever. 🌹🚀
+```
+     ☭ + 🏳️‍🌈 + 🤖 + 🛰️ = 🥂
+```
