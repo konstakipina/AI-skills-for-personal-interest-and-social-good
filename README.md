@@ -32,11 +32,14 @@ yours. Public domain. No landlords, no license fees, no yhdyssanavirheet. 💅
 Everything here is **plain Markdown**. No code, no scripts, no surveillance, no
 bosses. Just clear instructions. 🕊️
 
-| 🛠️ Skill | 💬 What it does |
-|----------|-----------------|
-| [kielenhuolto](skills/kielenhuolto.md) | 🇫🇮 Finnish copy-editing → sujuva, luonteva yleiskieli. Slays kapulakieli. Redistributes clarity to the masses. |
+This is a **growing collection** — new skills get collectivised over time.
+First to join the commune:
 
-*(More skills to be collectivised as the revolution scales. 📈🌹)*
+| # | 🛠️ Skill | 💬 What it does |
+|---|----------|-----------------|
+| 1 | [kielenhuolto](skills/kielenhuolto.md) | 🇫🇮 Finnish copy-editing → sujuva, luonteva yleiskieli. Slays kapulakieli. Redistributes clarity to the masses. |
+
+*(More comrades incoming. 📈🌹 Watch this space — the space in Luxury Gay Space Communism. 🛰️)*
 
 ## 🤖 How to use (the luxury part)
 
