@@ -1,0 +1,10 @@
+# CC0 1.0 Universal (Public Domain Dedication)
+
+To the extent possible under law, the contributors to this repository have
+waived all copyright and related or neighboring rights to the AI skills in this
+repository. This work is published from Finland.
+
+You can copy, modify, distribute, and use the work, even for commercial
+purposes, all without asking permission.
+
+Full legal text: <https://creativecommons.org/publicdomain/zero/1.0/legalcode>
