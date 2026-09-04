@@ -1,6 +1,6 @@
 # 🚀🌈 AI Skills for Personal Interest and Social Good 🌈🚀
 
-### *Fully Automated Luxury Gay Space Communism — but for editing your Finnish* 🏳️‍🌈🔧🛰️
+### *Fully Automated Luxury Gay Space Communism — but for AI skills* 🏳️‍🌈🔧🛰️
 
 ```
                      .
@@ -13,19 +13,19 @@
    🏳️‍🌈       \\  / | \  //        🏳️‍🌈
     _____________\\/__|__\//_____________
    |  🛸  FULLY AUTOMATED LUXURY  🛸    |
-   |     GAY  SPACE  KIELENHUOLTO       |
+   |      GAY   SPACE   COMMUNISM       |
    |____________________________________|
           |||||          |||||
           |||||          |||||
          🔥🔥🔥🔥        🔥🔥🔥🔥
 ```
 
-Welcome, comrade. 👋 The robots do the toil, the means of proofreading are held
-in common, and nobody is left behind because of a rogue **em-dash**. 🚩✨
+Welcome, comrade. 👋 The robots do the toil, the means of production are held
+in common, and every skill belongs to everyone. 🚩✨
 
 This repo is a small, joyful commons of **generic AI skills** — reusable
 instruction templates you can copy into any AI assistant. Seize them. They're
-yours. Public domain. No landlords, no license fees, no yhdyssanavirheet. 💅
+yours. Public domain. No landlords, no license fees, no gatekeepers. 💅
 
 ## 📦 What's in the collective
 
